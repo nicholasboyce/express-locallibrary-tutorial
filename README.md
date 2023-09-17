@@ -1,0 +1,1 @@
+Change the .env_sample to .env and paste your MongoDB link so that Mongoose can connect to MongoDB.
