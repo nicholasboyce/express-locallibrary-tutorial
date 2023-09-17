@@ -1,4 +1,4 @@
 .env
 node_modules/
-libraryconfig.js
-libraryconfig-template.js
+libraryconfig
+libraryconfig-template
